@@ -54,7 +54,7 @@ Follow these steps to set up and run the project on your local machine.
 To get a local copy of this repository, run the following command in your terminal:
 
 ```sh
-git clone https://github.com/iamshiv007/Next-Portfolio.git
+git clone https://github.com/kaveeeee/Next-Portfolio.git
 ```
 
 #### 2. Navigate to the Project
