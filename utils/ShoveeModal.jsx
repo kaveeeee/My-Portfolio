@@ -12,7 +12,7 @@ const ShoveeModal = () => {
     }, 25000);
   }, []);
 
-  return (
+  return/* (
     <div
       className='w-screen h-screen bg-[#74737357] flex justify-center items-center fixed top-0 left-0 z-30'
       style={showModal ? {} : { display: "none" }}
@@ -24,7 +24,7 @@ const ShoveeModal = () => {
         <div className='mt-2 flex justify-center'>
           <Link
             className='lg:w-[20%] flex items-center gap-2'
-            href='https://shovee.com'
+           // href='https://shovee.com'
             target='_blank'
           >
             <Image
@@ -55,7 +55,7 @@ const ShoveeModal = () => {
         </div>
       </div>
     </div>
-  );
+  );*/
 };
 
 export default ShoveeModal;

@@ -1,8 +1,8 @@
 export const ProjectsData = [
     {
         projectName: "Shovee : Personal Portfolio Generator",
-        liveUrl: "https://shovee.com",
-        githubUrl: "https://github.com/iamshiv007/shovee",
+        liveUrl: "",
+        githubUrl: "",
         projectImage: {
             imageUrl: "http://res.cloudinary.com/dqfrtazgi/image/upload/v1696218285/yn3naeznjfgszsbbjr92.png"
         },
@@ -10,8 +10,8 @@ export const ProjectsData = [
     },
     {
         projectName: "YouTube clone",
-        liveUrl: "https://youtube-clone-shivraj.vercel.app",
-        githubUrl: "https://github.com/iamshiv007/yotube-clone",
+        liveUrl: "",
+        githubUrl: "",
         projectImage: {
             imageUrl: "http://res.cloudinary.com/dqfrtazgi/image/upload/v1696218286/t1zjvlwogccwit9888w7.png"
         },
@@ -19,8 +19,8 @@ export const ProjectsData = [
     },
     {
         projectName: "Eccommerce Application",
-        liveUrl: "https://ecommerce-application-shivraj.vercel.app",
-        githubUrl: "https://github.com/iamshiv007/ecommerce-frontend",
+        liveUrl: "",
+        githubUrl: "",
         projectImage: {
             imageUrl: "http://res.cloudinary.com/dqfrtazgi/image/upload/v1696220173/lnnt6nmesjvvmo3nx9ep.png"
         },

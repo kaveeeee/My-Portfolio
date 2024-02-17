@@ -18,11 +18,11 @@ export const SocialMediaData = [
   {
     icon: <FaLinkedinIn />,
     color: "#0072b1",
-    link: "#"//"https://www.linkedin.com/in/shivraj-dev",
+    link: "https://www.linkedin.com/in/kaveendra-kodithuwakku-5420a5218/"//"https://www.linkedin.com/in/shivraj-dev",
   },
   {
     icon: <BsGithub />,
     color: "#171515",
-    link: "#"//"https://www.github.com/iamshiv007",
+    link: "https://github.com/kaveeeee"//"https://www.github.com/iamshiv007",
   },
 ];
