@@ -74,7 +74,7 @@ const About = () => {
             </p>
             {/* Profil Name */}
             <p className='text-center md:text-left text-red-600 mt-1'>
-              Ful stack web developer
+              Full stack web developer
             </p>
             {/* Location */}
             <div className='flex flex-wrap justify-center md:justify-normal gap-5'>
@@ -102,7 +102,7 @@ const About = () => {
                   </p>
                 </div>
                 <p className='text-center md:text-left text-[#c72c6c] dark:text-[#07d0e5]'>
-                  23{" "}
+                  24{" "}
                 </p>
               </div>
               {/* Experience */}
@@ -116,7 +116,7 @@ const About = () => {
                   </p>
                 </div>
                 <p className='text-center md:text-left text-[#c72c6c] dark:text-[#07d0e5]'>
-                  1 Year{" "}
+                  2 Year{" "}
                 </p>
               </div>
               {/* Project */}
@@ -130,7 +130,7 @@ const About = () => {
                   </p>
                 </div>
                 <p className='text-center md:text-left text-[#c72c6c] dark:text-[#07d0e5]'>
-                  3{" "}
+                  7{" "}
                 </p>
               </div>
             </div>
